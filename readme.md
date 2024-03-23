@@ -8,5 +8,5 @@ EAP **ISI**
 | Nombre | Rol |
 | -------|----- |
 |Juan Perez | Scrum master |
-
+|Luis Perez | Desarrollador |
 
